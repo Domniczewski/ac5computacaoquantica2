@@ -391,7 +391,9 @@ header {
 }
 
 @media screen and (orientation: landscape) {
-
+    h1{
+        padding-top: 100px;
+    }
     .bloco-2 h1 {
         text-align: center;
         padding-left: 0;
